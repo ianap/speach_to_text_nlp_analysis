@@ -8,7 +8,7 @@ The output from AWS Transcribe is converted into a Pandas DataFrame. The Python 
 
 The final steps involve applying AWS Comprehend for sentiment and topic analysis. The Hugging Face library is used to summarize answers.
 
-The project is built with AWS Transcribe and AWS Comprehend services and Python. It provides a complete pipeline that can be easily used to analyze recorded interviews. The project can be used for research purposes or for analyzing interview data in various industries. 
+The project is built with AWS Transcribe, AWS Comprehend services, AWS JumpStart API  and Python. It provides a complete pipeline that can be easily used to analyze recorded interviews. The project can be used for research purposes or for analyzing interview data in various industries. 
 
 ---
 
