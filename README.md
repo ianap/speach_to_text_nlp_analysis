@@ -10,5 +10,10 @@ The final steps involve applying AWS Comprehend for sentiment and topic analysis
 
 The project is built with AWS Transcribe and AWS Comprehend services and Python. It provides a complete pipeline that can be easily used to analyze recorded interviews. The project can be used for research purposes or for analyzing interview data in various industries. 
 
+---
+
 #### Project Flow Chart:
-![flow](https://github.com/ianap/speach_to_text_nlp_analysis/blob/master/aws_audio_pipeline.png?raw=true)
+![Flow Chart](https://github.com/ianap/speach_to_text_nlp_analysis/blob/main/aws_audio_pipeline.png)
+
+
+---
